@@ -4,3 +4,5 @@ He does
 - Setup play for attackers
 - Defence work
 - Any other thing
+
+The setter also talks to the captain and cordinates other blocker
