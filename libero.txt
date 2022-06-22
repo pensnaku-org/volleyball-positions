@@ -4,3 +4,8 @@ He does the following
 - Pick attacks
 - Follow up for attacks
 - Sets loose balls
+
+- The libero is a defensive backline player.
+- The libero is not allowed to jump set in the three-meter line.
+- The libero always defends from position 5.
+- The libero is not allowed to serve.
